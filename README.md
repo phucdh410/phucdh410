@@ -60,8 +60,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/phucdh410/phucdh410/output/snake.svg](https://github.com/phucdh410/phucdh410/blob/main/dist/snake.svg)" alt="Snake animation" />
-
 ### 🐍 Snake Game
 ![Snake Game](https://raw.githubusercontent.com/phucdh410/phucdh410/main/dist/snake.svg)
 
